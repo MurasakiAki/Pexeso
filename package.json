@@ -1,0 +1,9 @@
+{
+    "name": "pexeso-game",
+    "version": "1.0.0",
+    "description": "A Pexeso game built using HTML, CSS, and JavaScript",
+    "dependencies": {
+        "express": "^4.18.2",
+        "node": "^19.8.1"
+    }
+}
